@@ -107,7 +107,7 @@ const Index = () => {
             <div className="mb-8">
               <img 
                 src="/lovable-uploads/72084abe-0dab-4704-9ae0-bf7781efe87a.png"
-                alt="Gargi Singh - Senior Product Manager"
+                alt="Gargi Singh - Product Manager"
                 className="w-32 h-32 rounded-full mx-auto shadow-xl border-4 border-white/20 object-cover"
               />
             </div>
