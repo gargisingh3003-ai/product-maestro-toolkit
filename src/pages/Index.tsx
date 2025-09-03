@@ -6,7 +6,6 @@ import { SkillMatrix } from "@/components/SkillMatrix";
 import { ContactSection } from "@/components/ContactSection";
 import { Mail, Download, ExternalLink, Award, TrendingUp, Users, Zap } from "lucide-react";
 import heroBackground from "@/assets/hero-background.jpg";
-import headshotImage from "@/assets/gargi-singh-headshot.jpg";
 
 const Index = () => {
   const caseStudies = [
@@ -107,9 +106,9 @@ const Index = () => {
             {/* Profile Image */}
             <div className="mb-8">
               <img 
-                src={headshotImage}
+                src="/lovable-uploads/72084abe-0dab-4704-9ae0-bf7781efe87a.png"
                 alt="Gargi Singh - Senior Product Manager"
-                className="w-32 h-32 rounded-full mx-auto shadow-xl border-4 border-white/20"
+                className="w-32 h-32 rounded-full mx-auto shadow-xl border-4 border-white/20 object-cover"
               />
             </div>
 
