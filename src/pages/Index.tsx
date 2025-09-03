@@ -118,7 +118,7 @@ const Index = () => {
             </h1>
             
             <p className="text-subtitle mb-8 text-white/90">
-              Senior Product Manager | AI/ML Innovation Leader
+              Product Manager | AI/ML Innovation Leader
             </p>
             
             <p className="text-body-large mb-12 text-white/80 max-w-3xl mx-auto leading-relaxed">
